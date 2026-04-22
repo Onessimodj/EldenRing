@@ -19,7 +19,7 @@ NightFarers = {
 NightLords = {
     '1': 'gladius',
     '2': 'adel',
-    '3': 'goster',
+    '3': 'gnoster',
     '4': 'maris',
     '5': 'libra',
     '6': 'fulghor',
